@@ -2,6 +2,8 @@
 
 **Live XAML converter from WPF to Xamarin.Forms** Tool.
 
+![](images/FormsWPFConverter.gif)
+
 ## Setup
 
 Clone this repository. Open the solution in **FormsWPFLive.sln** with Visual Studio and press F5.

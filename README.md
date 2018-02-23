@@ -4,6 +4,8 @@
 
 ![](images/FormsWPFConverter.gif)
 
+***NOTE**: Experimental and work in progress project.There is still a lot of work to complete all the options.*
+
 ## Setup
 
 Clone this repository. Open the solution in **FormsWPFLive.sln** with Visual Studio and press F5.
